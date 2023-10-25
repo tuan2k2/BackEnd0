@@ -1,0 +1,27 @@
+{
+  "name": "backend0",
+  "version": "1.0.0",
+  "description": "Hoi dan IT backend 0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuan2k2/BackEnd_Nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "tuantran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuan2k2/BackEnd_Nodejs/issues"
+  },
+  "homepage": "https://github.com/tuan2k2/BackEnd_Nodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
